@@ -1,0 +1,25 @@
+#include <Servo.h>
+
+Servo myServo;  // Crea un objeto Servo
+
+// Configura el pin para el servomotor
+const int servoPin = 23;
+
+void setup() {
+  // Inicializa el servomotor en el pin especificado
+  myServo.attach(servoPin);
+}
+
+void loop() {
+  // Mueve el servomotor a 0 grados
+  myServo.write(0);              
+  delay(1000);  // Espera 1 segundo
+
+  // Mueve el servomotor a 90 grados
+  myServo.write(90);             
+  delay(1000);  // Espera 1 segundo
+
+  // Mueve el servomotor a 180 grados
+  myServo.write(180);            
+  delay(1000);  // Espera 1 segundo
+}
