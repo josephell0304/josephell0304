@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @josephell0304
+- 👀 I’m interested in learning more about news programming languages wich are used in my education.
+- 🌱 I’m currently learning mechanical engineering.
+- 💞️ I’m looking to collaborate on projects wich help on the development of society.
+- 📫 How to reach me how __josephell_ in all my social media.
+- 😄 Pronouns: i don`t have
+- ⚡ Fun fact: I love learning many new things
